@@ -26,10 +26,12 @@ Next.js  , session read / write  sample
 yarn dev
 ```
 
-
 ***
 ### Blog :
 
+* Next.js session を使う例
+
+https://zenn.dev/knaka0209/articles/67f6c35311b606
 
 ***
 
